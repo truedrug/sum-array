@@ -1,0 +1,16 @@
+{
+  "name": "sum-array",
+  "version": "1.0.0",
+  "description": "Package that finds the sum of all elements of an array",
+  "main": "index.js",
+  "repository": "https://github.com/truedrug/sum-array",
+  "author": "Sushree Ranjan Moharana",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "webpack": "^4.39.1",
+    "webpack-cli": "^3.3.6"
+  }
+}
