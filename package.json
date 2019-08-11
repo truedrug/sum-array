@@ -1,5 +1,5 @@
 {
-  "name": "sum-array",
+  "name": "sum-array-fun",
   "version": "1.0.0",
   "description": "Package that finds the sum of all elements of an array",
   "main": "index.js",
